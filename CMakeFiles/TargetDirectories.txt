@@ -1,0 +1,4 @@
+/s/bach/k/under/dbilbao/Y2/cs253/HW2/CMakeFiles/edit_cache.dir
+/s/bach/k/under/dbilbao/Y2/cs253/HW2/CMakeFiles/rebuild_cache.dir
+/s/bach/k/under/dbilbao/Y2/cs253/HW2/CMakeFiles/hw2.dir
+/s/bach/k/under/dbilbao/Y2/cs253/HW2/CMakeFiles/hw2.tar.dir
